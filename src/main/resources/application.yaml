@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: dev  # By default, the active profile is "dev". During production, it will be replaced to "prod" due to Azure's environment variables.
+
+  web:
+    resources:
+      add-mappings: false
+api:
+  endpoint:
+    base-url: /api/v1
+server:
+  port: 8080
+
