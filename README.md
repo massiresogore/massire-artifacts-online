@@ -169,4 +169,4 @@ UNLOCK TABLES;
 on a modifier le nom de la base de donnée
 alors on ajoute le nom de la tabless# massire-artifacts-online
 
-ok pour eux
+ok pour eux ok
