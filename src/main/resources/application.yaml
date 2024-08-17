@@ -9,5 +9,5 @@ api:
   endpoint:
     base-url: /api/v1
 server:
-  port: 8080
+  port: 80
 
