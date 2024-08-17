@@ -5,9 +5,14 @@ spring:
   web:
     resources:
       add-mappings: false
+  cloud:
+    azure:
+      compatibility-verifier:
+        enabled: false
 api:
   endpoint:
     base-url: /api/v1
 server:
-  port: 80
+  port: 8080
+
 
