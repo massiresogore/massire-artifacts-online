@@ -5,10 +5,10 @@ spring:
   web:
     resources:
       add-mappings: false
-  cloud:
-    azure:
-      compatibility-verifier:
-        enabled: false
+#  cloud:
+#    azure:
+#      compatibility-verifier:
+#        enabled: false
 api:
   endpoint:
     base-url: /api/v1
