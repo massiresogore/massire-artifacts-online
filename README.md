@@ -168,3 +168,5 @@ UNLOCK TABLES;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 on a modifier le nom de la base de donnée
 alors on ajoute le nom de la tabless# massire-artifacts-online
+
+ok pour eux
